@@ -1,1 +1,1 @@
-## Hardware adddress collector
+## Simple hardware address collector
